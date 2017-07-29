@@ -20,8 +20,9 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-
-
+gem 'twitter'
+# use twitter api
+gem 'randumb'
 
 
 # Use Redis adapter to run Action Cable in production
