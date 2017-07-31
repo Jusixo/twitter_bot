@@ -7,5 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Response.create(message: "Great post! #TIY")
-Response.create(message: "Great post! #TIY")
-Response.create(message: "Great post! #TIY")
+Response.create(message: "Great post! #TheIronYard")
+Response.create(message: "Great post! #TheIronYardTampa!")
